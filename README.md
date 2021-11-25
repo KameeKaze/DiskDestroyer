@@ -8,3 +8,4 @@ You know a skiddy who wants to hack facebook accounts? Send him this script and 
 
 
 # Use at your own risk!
+![demo](./image.png)
